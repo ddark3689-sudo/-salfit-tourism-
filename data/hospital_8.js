@@ -1,0 +1,1 @@
+var json_hospital_8 = {"type":"FeatureCollection","name":"hospital_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"name":"Martyr Yasser Arafat Hospital","photo":"https://share.google/images/cvLUY0PSxdFIrUJh3"},"geometry":{"type":"Point","coordinates":[35.173653756861896,32.0738098135242]}}]}
